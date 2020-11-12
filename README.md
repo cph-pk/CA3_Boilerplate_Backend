@@ -1,4 +1,4 @@
-# CA3 Backend Boilerplate
+# CA3 Boilerplate
 
 ## DAT3SEM GRP. 8
 
